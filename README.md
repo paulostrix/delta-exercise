@@ -97,6 +97,6 @@ A solução está sendo hospedada em um serviço de cloud da amazon - (amazonec2
 
 ## Contato
 
-Paulo Oliveira - paulooliveiratsx@gmail.com
+Paulo Oliveira - paulooliveira.tsx@gmail.com
 
-Project Link: [Paulo Henrique de Oliveira / delta-tech-exercise · GitLab](https://gitlab.com/paulostrix/delta-tech-exercise)
+Project Link: [Paulo Henrique de Oliveira / delta-exercise ](https://github.com/paulostrix/delta-exercise)
