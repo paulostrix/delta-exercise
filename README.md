@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="./crud-delta/aplicacao-mobile/assets/logo/logo.jpg" alt="Logo" width="300" height="200">
+    <img src="./crud-delta/aplicacao-mobile/assets/logo/logo.jpg" alt="Logo" width="300" height="250">
  
   <h3 align="center">Gerenciador de Alunos</h3>
 
@@ -38,7 +38,7 @@
 
 ## Sobre o projeto
 
-<img src="./crud-delta/aplicacao-mobile/assets/logo/preview.jpg" alt="Logo" width="680" height="460">
+<img src="./crud-delta/aplicacao-mobile/assets/logo/preview.jpg" alt="Logo" width="320" height="560">
 
 Uma solução mobile para catalogar os alunos, contendo todas as funções de uma CRUD, fazendo uso de recursos como Sequelize para gerenciar o banco de dados e também utilizando serviços da amazon(amazon s3) para upload de imagens e amazonec2 para hospedagem do servidor
 
