@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="./crud-delta-tecnologia/assets/logo/logo.jpg" alt="Logo" width="80" height="80">
+    <img src="./crud-delta/aplicacao-mobile/assets/logo/logo.jpg" alt="Logo" width="80" height="80">
  
   <h3 align="center">Gerenciador de Alunos</h3>
 
