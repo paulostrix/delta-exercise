@@ -40,7 +40,7 @@
 
 <img src="./crud-delta/aplicacao-mobile/assets/logo/preview.jpg" alt="Logo" width="320" height="560">
 
-Uma solução mobile para catalogar os alunos, contendo todas as funções de uma CRUD, fazendo uso de recursos como Sequelize para gerenciar o banco de dados e também utilizando serviços da amazon(amazon s3) para upload de imagens e amazonec2 para hospedagem do servidor
+Uma solução mobile para organizar os alunos sobre sua gestão, contendo todas as funções de uma CRUD, fazendo uso de recursos como Sequelize para gerenciar o banco de dados e também utilizando serviços da amazon(amazon s3) para upload de imagens e amazonec2 para hospedagem do servidor
 
 - API-GET (http://3.88.66.44:3000/students)
 
@@ -67,7 +67,7 @@ Uma solução mobile para catalogar os alunos, contendo todas as funções de um
 
 1. Após finalizar a instalação do expo-cli realize o clone do repositório
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/paulostrix/delta-exercise.git
    ```
 2. Acesse o diretório da aplicação
    ```sh
